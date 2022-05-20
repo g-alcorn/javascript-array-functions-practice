@@ -1,0 +1,24 @@
+{
+  "name": "javascript-array-functions-practice",
+  "version": "1.0.0",
+  "description": "Want to learn how to use JavaScript array functions like map, reduce, filter, etc? Use this worksheet and the corresponding videos to figure out how!",
+  "main": "worksheet.js",
+  "scripts": {
+    "start": "nodemon worksheet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-alcorn/javascript-array-functions-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-alcorn/javascript-array-functions-practice/issues"
+  },
+  "homepage": "https://github.com/g-alcorn/javascript-array-functions-practice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
